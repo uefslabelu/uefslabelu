@@ -61,8 +61,6 @@ Entre seus interesses de pesquisa estão:
 - conflitos sociais e práticas políticas;
 - preservação documental e acervos históricos.
 
----
-
 <h2 align="center">Objetivos</h2>
 
 O LABELU tem como objetivo principal **pesquisar a história e preservar a memória das lutas sociais e da esquerda**.
@@ -76,8 +74,6 @@ Suas atividades envolvem:
 - disponibilização de fontes para consulta;
 - realização de seminários, debates e espaços formativos;
 - formação de pesquisadores em História.
-
----
 
 <h2 align="center">Acervos disponíveis</h2>
 
@@ -98,8 +94,6 @@ Entre os acervos citados pelo LABELU estão:
 | **SNI/BA** | Documentos digitalizados do Serviço Nacional de Informações referentes à Bahia. |
 | **Um Rio de Lutas** | Documentação e entrevistas sobre movimentos dos atingidos por barragens no Submédio São Francisco. |
 
----
-
 <h2 align="center">Acesso ao acervo físico</h2>
 
 Para solicitar acesso ao acervo físico, é necessário informar os objetivos da pesquisa e os grupos documentais de interesse. A equipe do laboratório analisa a solicitação e responde por e-mail.
@@ -109,8 +103,6 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
   <img alt="Solicitar acesso ao acervo" src="https://img.shields.io/badge/Solicitar%20acesso%20ao%20acervo-5B1F1F?style=for-the-badge&logo=files&logoColor=white">
 </a>
 </p>
-
----
 
 <h2 align="center">Informações de contato</h2>
 
@@ -149,8 +141,6 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
   </picture>
   <strong>Instagram:</strong> <a href="https://www.instagram.com/uefslabelu/">@uefslabelu</a>
 </p>
-
----
 
 <h2 align="center"> Vínculos institucionais</h2>
 
