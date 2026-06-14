@@ -151,18 +151,19 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 ---
 
 ## Vínculos institucionais
-
-<a href="https://www.uefs.br/">
-  <img alt="UEFS" src="https://img.shields.io/badge/UEFS-Universidade%20Estadual%20de%20Feira%20de%20Santana-5B1F1F?style=for-the-badge">
-</a>
-<br/>
-<a href="https://ppgh.uefs.br/grupos-e-nucleos/">
-  <img alt="PPGH UEFS" src="https://img.shields.io/badge/PPGH-Programa%20de%20Pós--Graduação%20em%20História-7A2D2D?style=for-the-badge">
-</a>
-<br/>
-<a href="https://www.dchf.uefs.br/">
-  <img alt="DCHF UEFS" src="https://img.shields.io/badge/DCHF-Departamento%20de%20Ciências%20Humanas%20e%20Filosofia-8C4A2F?style=for-the-badge">
-</a>
+<p align="center">
+  <a href="https://www.uefs.br/">
+    <img alt="UEFS" src="https://img.shields.io/badge/UEFS-Universidade%20Estadual%20de%20Feira%20de%20Santana-5B1F1F?style=for-the-badge">
+  </a>
+  <br/>
+  <a href="https://ppgh.uefs.br/grupos-e-nucleos/">
+    <img alt="PPGH UEFS" src="https://img.shields.io/badge/PPGH-Programa%20de%20Pós--Graduação%20em%20História-7A2D2D?style=for-the-badge">
+  </a>
+  <br/>
+  <a href="https://www.dchf.uefs.br/">
+    <img alt="DCHF UEFS" src="https://img.shields.io/badge/DCHF-Departamento%20de%20Ciências%20Humanas%20e%20Filosofia-8C4A2F?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
