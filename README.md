@@ -14,7 +14,7 @@ ou ajuste os srcset abaixo conforme a organização do repositório:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/uefs-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset=".github/assets/uefs-light.svg">
-    <img alt="Logo da UEFS" src=".github/assets/uefs-light.svg" width="96">
+    <img alt="Logo da UEFS" src=".github/assets/uefs-light.svg" width="32">
   </picture>
 </div>
 
