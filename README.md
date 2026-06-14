@@ -52,7 +52,9 @@ ou ajuste os srcset abaixo conforme a organização do repositório:
 
 </div>
 
----
+<p align="center">
+🙡 —————————————————— 🙡
+</p>
 
 <h2 align="center">Sobre o laboratório</h2>
 
@@ -167,7 +169,9 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
   </a>
 </p>
 
----
+<p align="center">
+🙡 —————————————————— 🙡
+</p>
 
 <div align="center">
 
@@ -183,14 +187,7 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 <br>
 <br>
-
-<a href="https://ecompjr.com.br/">
-  <img alt="EcompJr" src="https://img.shields.io/badge/EcompJr-Empresa%20Júnior%20de%20Computação-222222?style=for-the-badge&logo=codeforces&logoColor=white">
-</a>
-
 </div>
-
----
 
 <div align="center">
 
