@@ -114,8 +114,12 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 <table>
   <tr>
-    <td width="32">
-      <img alt="Ícone de localização" width="24" src="https://api.iconify.design/lucide:map-pin.svg?color=%235B1F1F">
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%23FF9B8F">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
+        <img alt="Localização" width="36" height="36" src="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
+      </picture>
     </td>
     <td>
       <strong>Localização</strong><br>
@@ -124,8 +128,12 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
     </td>
   </tr>
   <tr>
-    <td width="32">
-      <img alt="Ícone de relógio" width="24" src="https://api.iconify.design/lucide:clock.svg?color=%235B1F1F">
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:clock.svg?color=%23FF9B8F">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
+        <img alt="Horário de funcionamento" width="36" height="36" src="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
+      </picture>
     </td>
     <td>
       <strong>Horário de funcionamento</strong><br>
@@ -133,8 +141,12 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
     </td>
   </tr>
   <tr>
-    <td width="32">
-      <img alt="Ícone de e-mail" width="24" src="https://api.iconify.design/lucide:mail.svg?color=%235B1F1F">
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:mail.svg?color=%23FF9B8F">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
+        <img alt="E-mail" width="36" height="36" src="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
+      </picture>
     </td>
     <td>
       <strong>E-mail</strong><br>
@@ -142,8 +154,12 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
     </td>
   </tr>
   <tr>
-    <td width="32">
-      <img alt="Ícone do Instagram" width="24" src="https://api.iconify.design/simple-icons:instagram.svg?color=%235B1F1F">
+    <td align="center" width="72">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%23FF9B8F">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
+        <img alt="Instagram" width="36" height="36" src="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
+      </picture>
     </td>
     <td>
       <strong>Instagram</strong><br>
