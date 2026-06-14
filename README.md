@@ -104,9 +104,11 @@ Entre os acervos citados pelo LABELU estão:
 
 Para solicitar acesso ao acervo físico, é necessário informar os objetivos da pesquisa e os grupos documentais de interesse. A equipe do laboratório analisa a solicitação e responde por e-mail.
 
+<p align="center">
 <a href="https://ecompjr.github.io/pj-labelu/acervos/#solicitacao-de-acesso">
   <img alt="Solicitar acesso ao acervo" src="https://img.shields.io/badge/Solicitar%20acesso%20ao%20acervo-5B1F1F?style=for-the-badge&logo=files&logoColor=white">
 </a>
+</p>
 
 ---
 
