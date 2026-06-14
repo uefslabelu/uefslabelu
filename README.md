@@ -168,22 +168,6 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ---
 
-<h2 align="center">Site institucional</h2>
-
-Este repositório contém o site institucional do LABELU, desenvolvido para apresentar o laboratório, sua equipe, agenda, produções, pesquisas e acervos.
-
-Principais seções:
-
-- [Início](https://ecompjr.github.io/pj-labelu/)
-- [Pesquisas](https://ecompjr.github.io/pj-labelu/pesquisas/)
-- [Produções](https://ecompjr.github.io/pj-labelu/producoes/)
-- [Agenda](https://ecompjr.github.io/pj-labelu/agenda/)
-- [Equipe](https://ecompjr.github.io/pj-labelu/equipe/)
-- [Acervos](https://ecompjr.github.io/pj-labelu/acervos/)
-- [Sobre](https://ecompjr.github.io/pj-labelu/sobre/)
-
----
-
 <h2 align="center">Desenvolvimento</h2>
 
 <div align="center">
