@@ -37,7 +37,11 @@ ou ajuste os srcset abaixo conforme a organização do repositório:
 <br>
 
 <a href="https://ecompjr.github.io/pj-labelu/">
-  <img alt="Acessar site" src="https://img.shields.io/badge/Acessar%20site-5B1F1F?style=for-the-badge&logo=githubpages&logoColor=white">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/assets/button-site-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/assets/button-site-light.svg">
+    <img alt="Acessar site" src=".github/assets/button-site-light.svg" height="42">
+  </picture>
 </a>
 <a href="https://ecompjr.github.io/pj-labelu/sobre/">
   <img alt="Sobre o laboratório" src="https://img.shields.io/badge/Sobre%20o%20laboratório-7A2D2D?style=for-the-badge&logo=readme&logoColor=white">
