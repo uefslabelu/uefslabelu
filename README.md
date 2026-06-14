@@ -170,8 +170,6 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ---
 
-<h2 align="center">Desenvolvimento</h2>
-
 <div align="center">
 
 Desenvolvido por
