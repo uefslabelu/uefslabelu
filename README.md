@@ -112,61 +112,41 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ## Informações de contato
 
-<table>
-  <tr>
-    <td align="center" width="72">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%23FF9B8F">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
-        <img alt="Localização" width="36" height="36" src="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
-      </picture>
-    </td>
-    <td>
-      <strong>Localização</strong><br>
-      Prédio do Programa de Pós-Graduação em História, Anexo do Módulo 7 — UEFS.<br>
-      Av. Transnordestina, s/n — Novo Horizonte, Feira de Santana — BA, 44036-900.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="72">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:clock.svg?color=%23FF9B8F">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
-        <img alt="Horário de funcionamento" width="36" height="36" src="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
-      </picture>
-    </td>
-    <td>
-      <strong>Horário de funcionamento</strong><br>
-      Segunda a sexta, das 08h às 12h e das 14h às 18h.
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="72">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:mail.svg?color=%23FF9B8F">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
-        <img alt="E-mail" width="36" height="36" src="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
-      </picture>
-    </td>
-    <td>
-      <strong>E-mail</strong><br>
-      <a href="mailto:uefslabelu@gmail.com">uefslabelu@gmail.com</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="72">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%23FF9B8F">
-        <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
-        <img alt="Instagram" width="36" height="36" src="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
-      </picture>
-    </td>
-    <td>
-      <strong>Instagram</strong><br>
-      <a href="https://www.instagram.com/uefslabelu/">@uefslabelu</a>
-    </td>
-  </tr>
-</table>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%23FF9B8F">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
+    <img alt="Localização" width="18" height="18" src="https://api.iconify.design/lucide:map-pin.svg?color=%238B1E1E">
+  </picture>
+  <strong>Localização:</strong> Prédio do Programa de Pós-Graduação em História, Anexo do Módulo 7 — UEFS. Av. Transnordestina, s/n — Novo Horizonte, Feira de Santana — BA, 44036-900.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:clock.svg?color=%23FF9B8F">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
+    <img alt="Horário de funcionamento" width="18" height="18" src="https://api.iconify.design/lucide:clock.svg?color=%238B1E1E">
+  </picture>
+  <strong>Horário de funcionamento:</strong> Segunda a sexta, das 08h às 12h e das 14h às 18h.
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide:mail.svg?color=%23FF9B8F">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
+    <img alt="E-mail" width="18" height="18" src="https://api.iconify.design/lucide:mail.svg?color=%238B1E1E">
+  </picture>
+  <strong>E-mail:</strong> <a href="mailto:uefslabelu@gmail.com">uefslabelu@gmail.com</a>
+</p>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%23FF9B8F">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
+    <img alt="Instagram" width="18" height="18" src="https://api.iconify.design/simple-icons:instagram.svg?color=%238B1E1E">
+  </picture>
+  <strong>Instagram:</strong> <a href="https://www.instagram.com/uefslabelu/">@uefslabelu</a>
+</p>
 
 ---
 
