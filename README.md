@@ -45,7 +45,7 @@ ou ajuste os srcset abaixo conforme a organização do repositório:
 
 ---
 
-## Sobre o laboratório
+<h2 align="center">Sobre o laboratório</h2>
 
 O **LABELU — Laboratório de História e Memória da Luta de Classes** é um espaço dedicado ao exercício da pesquisa histórica, à preservação da memória das lutas sociais e ao estudo da história da esquerda.
 
@@ -63,7 +63,7 @@ Entre seus interesses de pesquisa estão:
 
 ---
 
-## Objetivos
+<h2 align="center">Objetivos</h2>
 
 O LABELU tem como objetivo principal **pesquisar a história e preservar a memória das lutas sociais e da esquerda**.
 
@@ -79,7 +79,7 @@ Suas atividades envolvem:
 
 ---
 
-## Acervos disponíveis
+<h2 align="center">Acervos disponíveis</h2>
 
 O laboratório reúne e disponibiliza para consulta um conjunto de acervos documentais e bibliográficos relacionados à história das lutas sociais.
 
@@ -100,7 +100,7 @@ Entre os acervos citados pelo LABELU estão:
 
 ---
 
-## Acesso ao acervo físico
+<h2 align="center">Acesso ao acervo físico</h2>
 
 Para solicitar acesso ao acervo físico, é necessário informar os objetivos da pesquisa e os grupos documentais de interesse. A equipe do laboratório analisa a solicitação e responde por e-mail.
 
@@ -110,7 +110,7 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ---
 
-## Informações de contato
+<h2 align="center">Informações de contato</h2>
 
 <p>
   <picture>
@@ -150,7 +150,8 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ---
 
-## Vínculos institucionais
+<h2 align="center"> Vínculos institucionais</h2>
+
 <p align="center">
   <a href="https://www.uefs.br/">
     <img alt="UEFS" src="https://img.shields.io/badge/UEFS-Universidade%20Estadual%20de%20Feira%20de%20Santana-5B1F1F?style=for-the-badge">
@@ -167,7 +168,7 @@ Para solicitar acesso ao acervo físico, é necessário informar os objetivos da
 
 ---
 
-## Site institucional
+<h2 align="center">Site institucional</h2>
 
 Este repositório contém o site institucional do LABELU, desenvolvido para apresentar o laboratório, sua equipe, agenda, produções, pesquisas e acervos.
 
@@ -183,13 +184,11 @@ Principais seções:
 
 ---
 
-## Desenvolvimento
+<h2 align="center">Desenvolvimento</h2>
 
 <div align="center">
 
 Desenvolvido por
-
-<br><br>
 
 <a href="https://ecompjr.com.br/">
   <picture>
@@ -199,6 +198,7 @@ Desenvolvido por
   </picture>
 </a>
 
+<br>
 <br>
 
 <a href="https://ecompjr.com.br/">
